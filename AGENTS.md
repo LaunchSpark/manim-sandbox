@@ -1,6 +1,6 @@
 # General Instructions
 - Run available automated checks via `uv run pytest` (or other relevant commands) before opening a pull request, and ensure the Manim scenes still render if modified.
-- Update documentation in `README.md` or other markdown files whenever you change the setup process, dependencies, or user-facing behavior.
+- Update documentation in `README.md`, `AGENTS.md` corresponfing to the folder your working in or other markdown files whenever you change the setup process, dependencies, or user-facing behavior.
 - Maintain the structure and clarity of Jupyter notebooks; clear outputs before committing unless the output is essential for documentation.
 
 # Repository Overview
