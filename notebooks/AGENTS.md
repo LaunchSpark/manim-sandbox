@@ -11,6 +11,8 @@
 
 # Notebook Hygiene
 
+- Keep each notebook within its dedicated subfolder alongside an `AGENTS.md` file so local instructions travel with the notebook content.
+
 - Before committing, clear transient outputs unless they are essential reference frames for the explanation; include at most one representative frame per section.
 - Run the pertinent Manim scene in the `manim-env` kernel to confirm it still renders as documented in the accompanying Markdown.
 - If a dependency or execution step changes, mirror the update here and in the root `AGENTS.md` / `README.md` so setup guidance stays consistent.

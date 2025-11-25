@@ -6,7 +6,7 @@
 
 # Repository Overview
 - `setup.sh`: Bootstraps a uv-managed virtual environment, installs Manim Community Edition, Jupyter, and registers the VS Code kernel named **manim-env**.
-- `notebooks/`: Contains Jupyter notebooks demonstrating Manim usage, such as `bouncing_ball.ipynb`.
+- `notebooks/`: Contains Jupyter notebooks demonstrating Manim usage, organized into per-notebook folders such as `notebooks/bouncing_ball/bouncing_ball.ipynb`.
 - `README.md`: Provides setup instructions and an overview of the project environment.
 
 # Architecture Notes

@@ -42,5 +42,5 @@ cat <<'MSG'
 Activate the environment with:
   source ${VENV_DIR}/bin/activate
 
-Then open VS Code, select the "Python (manim-env)" kernel, and start the notebook in notebooks/bouncing_ball.ipynb.
+Then open VS Code, select the "Python (manim-env)" kernel, and start the notebook in notebooks/bouncing_ball/bouncing_ball.ipynb.
 MSG
