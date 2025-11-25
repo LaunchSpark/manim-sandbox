@@ -13,7 +13,7 @@ This repository contains a ready-to-use Manim environment configured with a Jupy
    ```bash
    source .venv/bin/activate
    ```
-4. Open `VS Code` and select the **Python (manim-env)** kernel for the notebook `notebooks/bouncing_ball.ipynb`.
+4. Open `VS Code` and select the **Python (manim-env)** kernel for the notebook `notebooks/bouncing_ball/bouncing_ball.ipynb`.
 5. Run the cells to load the Manim IPython magic and render the bouncing ball animation.
 
 The notebook demonstrates how to produce a simple animation of a ball bouncing on a ground plane using Manim inside a Jupyter notebook.
